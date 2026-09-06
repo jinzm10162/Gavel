@@ -1,4 +1,4 @@
-# English Auction
+# Gavel
 
 An on-chain English auction for ERC-721 tokens, built with Hardhat.
 
@@ -47,7 +47,7 @@ NotStarted ──▶ Ongoing ──▶ Ended ──┬──▶ Sold     (had a 
 ### Installation
 
 ```shell
-git clone https://github.com/jinzm10162/English-Auction.git
+git clone https://github.com/jinzm10162/Gavel.git
 cd English-Auction
 npm install
 ```
